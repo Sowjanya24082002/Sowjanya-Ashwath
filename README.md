@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m passionate about building real-world AI and data-dri
 ---
 
 ### 🔬 Current Projects
-- 🧠 Customer Churn Prediction (ongoing)
+- 🧠 Customer Churn Prediction (completed)
 - 💼 AI Career Recommender (upcoming)
 - 👁️ Image Classification using CNNs (planned)
 - 🛒 Retail Sales Forecast Dashboard (planned)
